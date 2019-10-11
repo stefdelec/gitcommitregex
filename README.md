@@ -1,1 +1,1 @@
-# gitcommitregex
+(feat|fix|chore)\(.+\): .* #\d+
